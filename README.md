@@ -2,8 +2,8 @@
 
 Cash Flow Grapher made in Typescript, only with canvas and calculations
 
-[!NOTE]
-Without external libraries
+> [!NOTE]
+> Without external libraries
 
 ## Prerequisites 📋
 
